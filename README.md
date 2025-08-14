@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samoda Ravishani</h1>
-<h3 align="center">Master’s in IT | Aspiring Data Scientist | QA Engineer | Tech Explorer</h3>
+<h3 align="center">Master’s in IT | Aspiring Data Scientist | QA Engineer | IT Business Analyst | Tech Explorer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samodaravishani&label=Profile%20views&color=0e75b6&style=flat" alt="samodaravishani" /> </p>
 
